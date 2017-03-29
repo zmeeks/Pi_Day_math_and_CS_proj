@@ -1,0 +1,8 @@
+This was a winning project that I did at Pasadena City College for Pi Day 2014.  
+
+I was initially interested in modeling Felix Baumgartner’s fall as an excuse to 
+play around with the double integral equation for acceleration due to gravity.  
+Luckily, my differential equations professor pointed out to me that the more interesting
+problem was modeling free fall in the presence of quadratic drag and variable air 
+density and that in light of the drag, the nominal difference in acceleration due to 
+height above earth is completely moot.
